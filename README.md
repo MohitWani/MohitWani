@@ -1,8 +1,8 @@
 # Hi, I'm Mohit Wani! 👋
 
 [![Profile views](https://visitcount.itsvg.in/api?id=MohitWani&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![GitHub followers](https://visitcount.itsvg.in/api?id=MohitWani&label=Follow&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-[![GitHub stars](https://visitcount.itsvg.in/api?id=MohitWani&label=Stars&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/MohitWani?label=Follow&style=social)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRkY2V2aWF5cHZqZGJyYnFrMmZhbmc2Z2h0c3Q4eHBkaHcxMWdxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
