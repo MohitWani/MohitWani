@@ -39,7 +39,7 @@ A sleek and intuitive weather forecasting app with real-time updates.
 
 ## 📫 Contact
 
-<p align="center">
+<B align="center">
   <a href="https://github.com/MohitWani" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
@@ -52,7 +52,7 @@ A sleek and intuitive weather forecasting app with real-time updates.
   <a href="https://www.kaggle.com/mohitwani" target="_blank">
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle"/>
   </a>
-</p>
+</B>
 
 ----
 
