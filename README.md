@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for creating innovative solutions. I have experience in web development, mobile app development, and machine learning.
+I am a dedicated Data Scientist and Machine Learning Engineer with expertise in Python, TensorFlow, and Scikit-Learn, passionate about developing innovative AI solutions to solve real-world problems. Currently pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science, I have hands-on experience in data analysis, machine learning, and software development.
 
 - 🔭 I’m currently working on [Artificial Intelligence and Machine Learning](https://github.com/MohitWani/)
 - 🌱 I’m currently learning **Machine Learning** and **Web Dev**
