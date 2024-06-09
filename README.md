@@ -32,13 +32,13 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/?size=100&id=TtXEs5SeYLG8&format=png&color=000000" alt="Flask"/>
+  <img src="https://img.icons8.com/?size=48&id=TtXEs5SeYLG8&format=png&color=000000" alt="Flask"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/natural-language-processing.png" alt="NLP"/>
-  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas"/>
-  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy"/>
+  <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas"/>
+  <img src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
 </p>
