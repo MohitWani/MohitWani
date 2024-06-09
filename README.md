@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @MohitWani
-- 👀 I’m interested in Machine learning, Deep learning and AI
-- 🌱 I’m currently learning AI and Data science
-- 📫 You can reach me by LinkedIn :- https://www.linkedin.com/in/mohit-wani-6310711a0/
+# Hi, I'm Mohit Wani! 👋
 
-# Hi, I'm John Doe! 👋
 
-![Profile views](https://gpvc.arturio.dev/johndoe)
 ![GitHub followers](https://img.shields.io/github/followers/johndoe?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/johndoe?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
@@ -41,4 +36,64 @@ A sleek and intuitive weather forecasting app with real-time updates.
 - **Twitter**: [@johndoe](https://twitter.com/johndoe)
 
 Thank you for visiting my profile!
+
+
+
+
+
+
+# TaskMaster
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+TaskMaster is a powerful, easy-to-use task management tool designed to help you organize your to-do lists, projects, and schedules efficiently. With TaskMaster, you can prioritize tasks, set deadlines, and collaborate with your team seamlessly.
+
+## Features
+
+- **Task Management**: Create, update, and delete tasks.
+- **Project Organization**: Organize tasks into projects.
+- **Priority Levels**: Set priority levels for tasks.
+- **Due Dates**: Assign due dates to tasks.
+- **Collaboration**: Share projects and tasks with your team.
+- **Notifications**: Receive reminders and notifications.
+
+## Installation
+
+To install TaskMaster, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/taskmaster.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd taskmaster
+    ```
+
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To start using TaskMaster, run the following command:
+
+```bash
+npm start
 
