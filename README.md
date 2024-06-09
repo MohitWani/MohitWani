@@ -35,7 +35,7 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit Learn"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" style="width:50" alt="Scikit Learn"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://opencv.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
