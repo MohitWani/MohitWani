@@ -22,25 +22,63 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
 ## 🛠️ Skills
 
 <p align="center">
+  <a href="https://www.python.org" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/sql/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000" alt="Pytorch"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit Learn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://img.icons8.com/?size=48&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/natural-language-processing.png" alt="NLP"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank">
   <img src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tableau.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
