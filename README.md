@@ -42,16 +42,13 @@ A sleek and intuitive weather forecasting app with real-time updates.
 <p align="center">
   <a href="https://github.com/MohitWani" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <h2>    </h2>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohit-wani-6310711a0/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <h2>    </h2>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mohit_wani_72/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  <h2>    </h2>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/mohitwani" target="_blank">
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle"/>
   </a>
