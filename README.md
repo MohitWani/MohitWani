@@ -21,9 +21,31 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
 
 ## 🛠️ Skills
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- **Frameworks**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="Pytorch"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit Learn"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
+  <img src="https://img.icons8.com/dusk/64/000000/ai.png" alt="LLM"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/computer-vision.png" alt="Computer Vision"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/natural-language-processing.png" alt="NLP"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="Pandas"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/matplotlib.png" alt="Matplotlib"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
+  <img src="https://img.icons8.com/dusk/64/000000/translation.png" alt="NMT"/>
+</p>
+
 
 ## 📫 Contact
 
