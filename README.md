@@ -39,11 +39,22 @@ A sleek and intuitive weather forecasting app with real-time updates.
 
 ## 📫 Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [John Doe](https://www.linkedin.com/in/johndoe/)
-- **Twitter**: [@johndoe](https://twitter.com/johndoe)
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.kaggle.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</p>
 
----
+----
 
 <p align="center">
   Thank you for visiting my profile! If you found my projects interesting, feel free to reach out or follow me for more updates.
