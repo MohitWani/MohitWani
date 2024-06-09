@@ -1,6 +1,5 @@
 # Hi, I'm John Doe! 👋
 
-![Profile views](https://gpvc.arturio.dev/johndoe)
 ![GitHub followers](https://img.shields.io/github/followers/MohitWani?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/MohitWani?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
