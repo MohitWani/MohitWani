@@ -1,7 +1,7 @@
 # Hi, I'm John Doe! 👋
 
 [![Profile views](https://visitcount.itsvg.in/api?id=MohitWani&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-![GitHub followers](https://img.shields.io/github/followers/MohitWani?label=Follow&style=social)
+[![GitHub followers](https://visitcount.itsvg.in/api?id=MohitWani&label=Follow&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ![GitHub stars](https://img.shields.io/github/stars/MohitWani?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 <p align="center">
