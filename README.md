@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/johndoe?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRkY2V2aWF5cHZqZGJyYnFrMmZhbmc2Z2h0c3Q4eHBkaHcxMWdxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" width="200">
 </p>
 
 ## About Me
