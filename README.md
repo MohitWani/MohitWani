@@ -12,16 +12,16 @@
 
 I'm a passionate software developer with a love for creating innovative solutions. I have experience in web development, mobile app development, and machine learning.
 
-- 🔭 I’m currently working on [TaskMaster](https://github.com/johndoe/taskmaster)
-- 🌱 I’m currently learning **React** and **Node.js**
+- 🔭 I’m currently working on [Artificial Intelligence and Machine Learning](https://github.com/MohitWani/)
+- 🌱 I’m currently learning **Machine Learning** and **Web Dev**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **web development** and **machine learning**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 💬 Ask me about **web development** and **Machine Learning**
+- 📫 How to reach me: [mohitw171@gmail.com](mailto:mohitw171@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## 🚀 Projects
 
-### [TaskMaster](https://github.com/johndoe/taskmaster)
+### [TaskMaster](https://github.com/MohitWani/)
 A powerful, easy-to-use task management tool designed to help you organize your to-do lists, projects, and schedules efficiently.
 
 ![TaskMaster Screenshot](https://via.placeholder.com/800x400?text=TaskMaster+Screenshot)
