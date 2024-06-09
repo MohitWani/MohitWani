@@ -93,6 +93,26 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="GitHub Trophies"/>
+  </a>
+</p>
+
 ----
 
 <p align="center">
