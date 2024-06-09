@@ -19,18 +19,6 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
 - 📫 How to reach me: [mohitw171@gmail.com](mailto:mohitw171@gmail.com)
 - 😄 Pronouns: He/Him
 
-## 🚀 Projects
-
-### [TaskMaster](https://github.com/MohitWani/)
-A powerful, easy-to-use task management tool designed to help you organize your to-do lists, projects, and schedules efficiently.
-
-![TaskMaster Screenshot](https://via.placeholder.com/800x400?text=TaskMaster+Screenshot)
-
-### [WeatherApp](https://github.com/johndoe/weatherapp)
-A sleek and intuitive weather forecasting app with real-time updates.
-
-![WeatherApp Screenshot](https://via.placeholder.com/800x400?text=WeatherApp+Screenshot)
-
 ## 🛠️ Skills
 
 - **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
