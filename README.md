@@ -32,7 +32,7 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/?size=48&id=TtXEs5SeYLG8&format=png&color=000000" alt="Flask"/>
+  <img src="https://img.icons8.com/?size=48&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
