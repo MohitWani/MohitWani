@@ -24,7 +24,7 @@ I am a dedicated Data Scientist and Machine Learning Engineer with expertise in 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="Pytorch"/>
+  <img src="https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000" alt="Pytorch"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit Learn"/>
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
